@@ -1,0 +1,24 @@
+.courses{
+    display: flex;
+    margin-top: 100px;
+    background-color: bisque;
+    
+}
+.python{
+    width:50px;
+    height:50px;
+    padding:50px;
+    background-color: blueviolet;
+    
+}
+.CPP{
+   width:10px;
+    padding: 50px;
+    margin-left:50px;
+}
+.javascript{
+    width:50px;
+    height:50px;
+    padding: 50px;
+    margin:30px;
+}
